@@ -19,13 +19,14 @@ Aqui estão as tecnologias que utilizo nos meus projetos:
   <img align="center" alt="Luan-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Luan-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Luan-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Luan-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
 </div>
 
 <br>
 
 ### 🎯 Metas de Aprendizado
 
-- **Foco Atual:** Aprimorar e consolidar conhecimentos em arquitetura Front-end e UX/UI.
+- **Foco Atual:** Aprimorar e consolidar conhecimentos em arquitetura Front-end.
 - **Futuro:** Expandir para o Back-end e me tornar um desenvolvedor **Full Stack**.
 
 ---
