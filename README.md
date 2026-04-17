@@ -28,17 +28,23 @@ Além dos estudos acadêmicos, coloco a mão na massa como membro da **TITAN**, 
 
 <br/>
 
-### 💻 Projeto em Destaque
+### 💻 Projetos em Destaque
 
-Aqui está um projeto que desenvolvi recentemente:
+Aqui estão alguns projetos que desenvolvi recentemente:
 
-* **[🎬 CineLab](https://github.com/luanfzll/movie-catalog)**  
-  Catálogo de filmes com busca em tempo real e sistema de favoritos.  
+* **[🎬 CineLab](https://github.com/luanfzll/movie-catalog)** Catálogo de filmes com busca em tempo real e sistema de favoritos.  
   Interface responsiva com foco em experiência do usuário.  
 
   **Tecnologias:** React • TypeScript • Tailwind • Vite • TMDB API  
 
   🚀 **[Acessar projeto](https://cinelab-movie-catalog.vercel.app/)**
+
+* **[🔴 PokéDex](https://github.com/luanfzll/PTDev-TITAN/tree/main/projeto-pokedex)** Explorador de Pokémon com scroll infinito e busca inteligente por indexação local.  
+  Sistema de favoritos e persistência de dados (Dark Mode e LocalStorage).  
+
+  **Tecnologias:** React • Tailwind • Vite • PokéAPI  
+
+  🚀 **[Acessar projeto](https://pokedex-luanfzll.vercel.app/)**
 
   <br/>
 
