@@ -1,6 +1,6 @@
 # Olá, eu sou o Luan! 👋
 
-Seja bem-vindo ao meu perfil! Sou um entusiasta da tecnologia e Desenvolvedor Front-end em formação.
+Seja bem-vindo ao meu perfil! Sou um entusiasta da tecnologia e Desenvolvedor Web.
 
 ---
 
