@@ -1,67 +1,44 @@
-# Olá, eu sou o Luan! 👋
+<h1 align="center">Luan Leal</h1>
 
-Seja bem-vindo ao meu perfil! Sou um entusiasta da tecnologia e Desenvolvedor Web.
-
----
-
-### 🎓 Sobre Mim
-
-Atualmente, estou cursando **Sistemas de Informação** na **Universidade Federal da Bahia (UFBA)**. 
-
-Além dos estudos acadêmicos, coloco a mão na massa como membro da **TITAN**, a Empresa Júnior de Engenharia de Computação da UFBA, onde desenvolvo soluções reais e aprimoro minhas habilidades de trabalho em equipe e gestão de projetos.
-
-<br/>
-
-### 🚀 Habilidades Técnicas 
-
-<p> <br/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white">
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Desenvolvedor+Web;Construindo+projetos+Full+Stack;Do+banco+de+dados+ao+deploy" alt="Desenvolvedor Web · Construindo projetos Full Stack" />
 </p>
 
-<br/>
+<p align="center">
+  <b>Desenvolvedor Web @ TITAN</b> · Sistemas de Informação @ UFBA · Salvador, BA 🇧🇷
+</p>
 
-### 💻 Projetos em Destaque
-
-Aqui estão alguns projetos que desenvolvi recentemente:
-
-* **[🎬 CineLab](https://github.com/luanfzll/movie-catalog)** Catálogo de filmes com busca em tempo real e sistema de favoritos.  
-  Interface responsiva com foco em experiência do usuário.  
-
-  **Tecnologias:** React • TypeScript • Tailwind • Vite • TMDB API  
-
-  🚀 **[Acessar projeto](https://cinelab-movie-catalog.vercel.app/)**
-
-* **[🔴 PokéDex](https://github.com/luanfzll/PTDev-TITAN/tree/main/projeto-pokedex)** Explorador de Pokémon com scroll infinito e busca inteligente por indexação local.  
-  Sistema de favoritos e persistência de dados (Dark Mode e LocalStorage).  
-
-  **Tecnologias:** React • Tailwind • Vite • PokéAPI  
-
-  🚀 **[Acessar projeto](https://pokedex-luanfzll.vercel.app/)**
-
-  <br/>
-
-### 🎯 Metas de Aprendizado
-
-- **Foco Atual:** Aprimorar e consolidar conhecimentos em arquitetura Front-end.
-- **Futuro:** Expandir para o Back-end e me tornar um desenvolvedor **Full Stack**. 
+<p align="center">
+  <a href="https://www.linkedin.com/in/luanfleal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:luanfellizolaleal@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
 
-### 📫 Contato
+## 👨‍💻 Sobre mim
 
-Vamos nos conectar?
+- 🛠️ Desenvolvedor web focado em aplicações completas — da interface à API e ao banco de dados.
+- 💼 Desenvolvedor Web na **TITAN**, Empresa Júnior de Engenharia de Computação da UFBA, construindo soluções para **clientes reais**.
+- 🎓 Graduando em **Sistemas de Informação** na **UFBA**.
+- 🔎 **Aberto a oportunidades de estágio em desenvolvimento web.**
 
-<a href="https://www.linkedin.com/in/luanfleal" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a>
-<a href="mailto:luanfellizolaleal@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-</a>
+## 🧰 Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,prisma,postgres,tailwind,html,css,vite,vitest,figma,git,github,vercel&perline=8" alt="TypeScript, JavaScript, React, Next.js, Node.js, Prisma, PostgreSQL, Tailwind, HTML, CSS, Vite, Vitest, Figma, Git, GitHub, Vercel" />
+</p>
+
+## 🧭 Como eu trabalho
+
+- **Mobile-first** e layouts responsivos de verdade
+- **Componentização** — cada seção é um componente isolado e reutilizável
+- **HTML semântico e acessibilidade** — `header`, `main`, `section`, `alt` em imagens
+- **Performance** — lazy loading, bundles enxutos com Vite
+- **SEO** — meta tags, Open Graph e estrutura semântica
+- **Conventional Commits** — histórico limpo (`feat:`, `fix:`, `style:`)
+
+---
+
+<p align="center">
+  Bora conversar? Me chama no <a href="https://www.linkedin.com/in/luanfleal">LinkedIn</a> ou por <a href="mailto:luanfellizolaleal@gmail.com">email</a>. 🤝
+</p>
